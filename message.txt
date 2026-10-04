@@ -1,1 +1,1 @@
-"wrong message" 
+"Hello fro CI/CD lab" 
